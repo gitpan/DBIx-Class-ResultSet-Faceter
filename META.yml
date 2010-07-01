@@ -24,8 +24,9 @@ requires:
   DateTime: 0
   Moose: 0
   MooseX::Iterator: 0
+  MooseX::Types: 0
   Try::Tiny: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/gphat/dbix-class-resultset-faceter
-version: 0.01
+version: 0.02
